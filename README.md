@@ -1,3 +1,7 @@
+[01_Project_Planning (1).pdf](https://github.com/user-attachments/files/34226772/01_Project_Planning.1.pdf)
+[02_Stakeholder_Analysis (1).pdf](https://github.com/user-attachments/files/34226771/02_Stakeholder_Analysis.1.pdf)
+[03_Database_Design (1).pdf](https://github.com/user-attachments/files/34226770/03_Database_Design.1.pdf)
+[04_UI_UX_Design (2).pdf](https://github.com/user-attachments/files/34226769/04_UI_UX_Design.2.pdf)
 
 # Superstore Sales Analysis
 
